@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Economics | Lars Spreng</title>
+    <link>https://larsspreng.github.io/tag/development-economics/</link>
+      <atom:link href="https://larsspreng.github.io/tag/development-economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Development Economics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://larsspreng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Development Economics</title>
+      <link>https://larsspreng.github.io/tag/development-economics/</link>
+    </image>
+    
+    <item>
+      <title>Macroeconomic Management on Becoming an African Oil Exporter</title>
+      <link>https://larsspreng.github.io/project/oil_ms/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://larsspreng.github.io/project/oil_ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aid and Exchange Rates in sub-Saharan Africa --  No More Dutch Disease?</title>
+      <link>https://larsspreng.github.io/project/aid_rsm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://larsspreng.github.io/project/aid_rsm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
